@@ -1,0 +1,12 @@
+# Visual Studio cache directory
+.vs/
+
+# Folder for compiled output in any sub-project
+**/bin/
+
+# Folder for intermediate build files in any sub-project
+**/obj/
+
+# User-specific files and settings
+*.user
+*.suo
