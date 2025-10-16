@@ -1,0 +1,100 @@
+# ===================================================================
+# Gói phụ thuộc và công cụ (Dependency packages and tools)
+# ===================================================================
+**/[Pp]ackages/
+**/[Ww]rap/
+**/[Nn]ode_modules/
+**/[Jj]spm_packages/
+**/[Bb]ower_components/
+lib/
+lib64/
+*.sublime-project
+*.sublime-workspace
+
+# ===================================================================
+# Các file do Visual Studio và Rider tạo ra (IDE generated files)
+# ===================================================================
+**/[Oo]bj/
+**/[Bb]in/
+**/[Dd]ebug/
+**/[Dd]ebugPublic/
+**/[Rr]elease/
+**/[Rr]eleases/
+**/x64/
+**/x86/
+**/[Aa]rm/
+**/[Aa]rm64/
+**/build/
+**/bld/
+**/*.DS_Store
+**/*_i.c
+**/*_p.c
+**/*_h.h
+*.ilk
+*.meta
+*.obj
+*.obj.enc
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.suo
+*.tlb
+*.tlh
+*.tmp
+*.tmp_proj
+*.vsix
+*.vsixlangpack
+*.vsixmanifest
+*.vspscc
+*.vssscc
+*.user
+*_Publish.pubxml
+*.pubxml
+*.publish.xml
+*.build-res
+.vs/
+.idea/
+*.[Cc]ache
+ClientBin/
+~$*
+*~
+*.swp
+
+# ===================================================================
+# Các file log và file tạm thời (Log and temporary files)
+# ===================================================================
+*.log
+*.tlog
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.bak
+*.orig
+
+# ===================================================================
+# Các file liên quan đến Test (Testing related files)
+# ===================================================================
+*.coverage
+*.coveragexml
+*.nupkg
+*.trx
+TestResults/
+**/coverage.cobertura.xml
+
+# ===================================================================
+# Các file cấu hình người dùng (User-specific settings)
+# ===================================================================
+*.DotSettings
+*.DotSettings.user
+
+# ===================================================================
+# Các file khác (Miscellaneous)
+# ===================================================================
+BenchmarkDotNet.Artifacts/
+MigrationHistory.xml
+**/secrets.json
+**/appsettings.Development.json
