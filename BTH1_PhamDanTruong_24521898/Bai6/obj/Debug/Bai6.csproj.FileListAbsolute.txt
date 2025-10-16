@@ -1,0 +1,7 @@
+E:\C# folder\24521898_PhamDanTruong_BTLab1\Bai6\bin\Debug\Bai6.exe.config
+E:\C# folder\24521898_PhamDanTruong_BTLab1\Bai6\bin\Debug\Bai6.exe
+E:\C# folder\24521898_PhamDanTruong_BTLab1\Bai6\bin\Debug\Bai6.pdb
+E:\C# folder\24521898_PhamDanTruong_BTLab1\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+E:\C# folder\24521898_PhamDanTruong_BTLab1\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+E:\C# folder\24521898_PhamDanTruong_BTLab1\Bai6\obj\Debug\Bai6.exe
+E:\C# folder\24521898_PhamDanTruong_BTLab1\Bai6\obj\Debug\Bai6.pdb
