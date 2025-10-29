@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Truongpham-code\\DoAn_IT008\\Class\\Code\\BTH2_PhamDanTruong_24521898\\",
+  "WorkspaceRootPath": "D:\\TruongPham\\IT008\\BTH2_PhamDanTruong_24521898\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51590781-F808-455A-A609-9B2FBF6D3660}|Bai01\\Bai01.csproj|e:\\truongpham-code\\doan_it008\\class\\code\\bth2_phamdantruong_24521898\\bai01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51590781-F808-455A-A609-9B2FBF6D3660}|Bai01\\Bai01.csproj|solutionrelative:bai01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40D5328E-FB00-41EA-941A-37CB90289C15}|Bai05\\Bai05.csproj|d:\\truongpham\\it008\\bth2_phamdantruong_24521898\\bai05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5328E-FB00-41EA-941A-37CB90289C15}|Bai05\\Bai05.csproj|solutionrelative:bai05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613B1492-BEC0-47E6-BF2A-5A0006DFFDBA}|Bai04\\Bai04.csproj|d:\\truongpham\\it008\\bth2_phamdantruong_24521898\\bai04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613B1492-BEC0-47E6-BF2A-5A0006DFFDBA}|Bai04\\Bai04.csproj|solutionrelative:bai04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613B1492-BEC0-47E6-BF2A-5A0006DFFDBA}|Bai04\\Bai04.csproj|d:\\truongpham\\it008\\bth2_phamdantruong_24521898\\bai04\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613B1492-BEC0-47E6-BF2A-5A0006DFFDBA}|Bai04\\Bai04.csproj|solutionrelative:bai04\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,22 +28,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Truongpham-code\\DoAn_IT008\\Class\\Code\\BTH2_PhamDanTruong_24521898\\Bai01\\Program.cs",
-              "RelativeDocumentMoniker": "Bai01\\Program.cs",
-              "ToolTip": "E:\\Truongpham-code\\DoAn_IT008\\Class\\Code\\BTH2_PhamDanTruong_24521898\\Bai01\\Program.cs",
-              "RelativeToolTip": "Bai01\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvygAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\TruongPham\\IT008\\BTH2_PhamDanTruong_24521898\\Bai05\\Program.cs",
+              "RelativeDocumentMoniker": "Bai05\\Program.cs",
+              "ToolTip": "D:\\TruongPham\\IT008\\BTH2_PhamDanTruong_24521898\\Bai05\\Program.cs",
+              "RelativeToolTip": "Bai05\\Program.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAswPkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T09:12:10.983Z",
+              "WhenOpened": "2025-10-29T17:52:52.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhanSo.cs",
+              "DocumentMoniker": "D:\\TruongPham\\IT008\\BTH2_PhamDanTruong_24521898\\Bai04\\PhanSo.cs",
+              "RelativeDocumentMoniker": "Bai04\\PhanSo.cs",
+              "ToolTip": "D:\\TruongPham\\IT008\\BTH2_PhamDanTruong_24521898\\Bai04\\PhanSo.cs",
+              "RelativeToolTip": "Bai04\\PhanSo.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAowJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:09:34.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TruongPham\\IT008\\BTH2_PhamDanTruong_24521898\\Bai04\\Program.cs",
+              "RelativeDocumentMoniker": "Bai04\\Program.cs",
+              "ToolTip": "D:\\TruongPham\\IT008\\BTH2_PhamDanTruong_24521898\\Bai04\\Program.cs",
+              "RelativeToolTip": "Bai04\\Program.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAAAM8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:08:52.532Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -5,3 +5,11 @@ E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai02\obj\D
 E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
 E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai02\obj\Debug\Bai02.exe
 E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai02\obj\Debug\Bai02.pdb
+D:\TruongPham\IT008\BTH2_PhamDanTruong_24521898\Bai02\bin\Debug\Bai02.exe.config
+D:\TruongPham\IT008\BTH2_PhamDanTruong_24521898\Bai02\bin\Debug\Bai02.exe
+D:\TruongPham\IT008\BTH2_PhamDanTruong_24521898\Bai02\bin\Debug\Bai02.pdb
+D:\TruongPham\IT008\BTH2_PhamDanTruong_24521898\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+D:\TruongPham\IT008\BTH2_PhamDanTruong_24521898\Bai02\obj\Debug\Bai02.exe.config
+D:\TruongPham\IT008\BTH2_PhamDanTruong_24521898\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\TruongPham\IT008\BTH2_PhamDanTruong_24521898\Bai02\obj\Debug\Bai02.exe
+D:\TruongPham\IT008\BTH2_PhamDanTruong_24521898\Bai02\obj\Debug\Bai02.pdb

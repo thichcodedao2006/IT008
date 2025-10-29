@@ -110,6 +110,11 @@ namespace Bai04
         // Xuat ra 1 day phan so.
         static void OutputArray(PhanSo[] array, int n)
         {
+            if (n==0)
+            {
+                Console.WriteLine("Mang rong.");
+                return;
+            }
             Console.WriteLine("Cac phan so trong day: ");
             for (int i=0;i<n;i++)
             {
@@ -220,6 +225,11 @@ namespace Bai04
         // Sap xep cac phan so trong day tang dan 
         static void SortArray(ref PhanSo[] array, int n)
         {
+            if (n==0)
+            {
+                Console.WriteLine("Mang rong.");
+                return;
+            }
             for (int i=0;i<n;i++)
             {
                 for (int j=i+1;j<n;j++)

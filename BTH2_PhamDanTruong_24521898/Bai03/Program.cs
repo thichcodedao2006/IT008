@@ -57,10 +57,11 @@ namespace Bai03
                 {
                     RowWithMostPrime(matrix, n, m);
                 }
-                else
+                else if (choice == 5)
                 {
-                    Console.WriteLine("Lua chon khong hop le.");
+                    break;
                 }
+                else Console.WriteLine("Lua chon khong hop le.");
             }
         }
         // Nhap du lieu cho ma tran
