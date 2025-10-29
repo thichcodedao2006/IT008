@@ -1,0 +1,7 @@
+E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai04\bin\Debug\Bai04.exe.config
+E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai04\bin\Debug\Bai04.exe
+E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai04\bin\Debug\Bai04.pdb
+E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai04\obj\Debug\Bai04.exe
+E:\Truongpham-code\DoAn_IT008\Class\Code\BTH2_PhamDanTruong_24521898\Bai04\obj\Debug\Bai04.pdb
