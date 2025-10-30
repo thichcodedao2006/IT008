@@ -85,7 +85,8 @@ namespace Bai05
         {
             string current = DiaDiem.ToLower();
             location = location.ToLower();
-            if (location == current && GiaBan <= price && DienTich >= area) return true;
+            bool have = current.Contains(location);
+            if (have && GiaBan <= price && DienTich >= area) return true;
             return false;
         }
     }
