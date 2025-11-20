@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Truongpham-code\\DoAn_IT008\\Class\\Code\\BTH3_PhamDanTruong_24521898\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C2C11E-0354-4541-BF5E-44AE58A0817A}|Bai09\\Bai09.csproj|d:\\truongpham-code\\doan_it008\\class\\code\\bth3_phamdantruong_24521898\\bai09\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C2C11E-0354-4541-BF5E-44AE58A0817A}|Bai09\\Bai09.csproj|solutionrelative:bai09\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C2C11E-0354-4541-BF5E-44AE58A0817A}|Bai09\\Bai09.csproj|d:\\truongpham-code\\doan_it008\\class\\code\\bth3_phamdantruong_24521898\\bai09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C2C11E-0354-4541-BF5E-44AE58A0817A}|Bai09\\Bai09.csproj|solutionrelative:bai09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C2C11E-0354-4541-BF5E-44AE58A0817A}|Bai09\\Bai09.csproj|d:\\truongpham-code\\doan_it008\\class\\code\\bth3_phamdantruong_24521898\\bai09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2C2C11E-0354-4541-BF5E-44AE58A0817A}|Bai09\\Bai09.csproj|solutionrelative:bai09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Truongpham-code\\DoAn_IT008\\Class\\Code\\BTH3_PhamDanTruong_24521898\\Bai09\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai09\\Form1.Designer.cs",
+              "ToolTip": "D:\\Truongpham-code\\DoAn_IT008\\Class\\Code\\BTH3_PhamDanTruong_24521898\\Bai09\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai09\\Form1.Designer.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAYwDEBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:12:27.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Truongpham-code\\DoAn_IT008\\Class\\Code\\BTH3_PhamDanTruong_24521898\\Bai09\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai09\\Form1.cs",
+              "ToolTip": "D:\\Truongpham-code\\DoAn_IT008\\Class\\Code\\BTH3_PhamDanTruong_24521898\\Bai09\\Form1.cs",
+              "RelativeToolTip": "Bai09\\Form1.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwLYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:09:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Truongpham-code\\DoAn_IT008\\Class\\Code\\BTH3_PhamDanTruong_24521898\\Bai09\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai09\\Form1.cs",
+              "ToolTip": "D:\\Truongpham-code\\DoAn_IT008\\Class\\Code\\BTH3_PhamDanTruong_24521898\\Bai09\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai09\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:09:07.587Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

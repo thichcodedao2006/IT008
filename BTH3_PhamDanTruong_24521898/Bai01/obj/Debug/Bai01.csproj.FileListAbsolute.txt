@@ -1,0 +1,14 @@
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\bin\Debug\Bai01.exe.config
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\bin\Debug\Bai01.exe
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\bin\Debug\Bai01.pdb
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\bin\Debug\Guna.UI2.dll
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\obj\Debug\Bai01.Form1.resources
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\obj\Debug\Bai01.csproj.Up2Date
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\obj\Debug\Bai01.exe
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\obj\Debug\Bai01.pdb
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\obj\Debug\Bai01.exe.config
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH3_PhamDanTruong_24521898\Bai01\obj\Debug\Bai01.Form2.resources
