@@ -1,0 +1,11 @@
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\bin\Debug\Bai08.exe.config
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\bin\Debug\Bai08.exe
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\bin\Debug\Bai08.pdb
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\obj\Debug\Bai08.csproj.AssemblyReference.cache
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\obj\Debug\Bai08.Form1.resources
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\obj\Debug\Bai08.Properties.Resources.resources
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\obj\Debug\Bai08.csproj.GenerateResource.cache
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\obj\Debug\Bai08.csproj.CoreCompileInputs.cache
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\obj\Debug\Bai08.exe
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\obj\Debug\Bai08.pdb
+D:\Truongpham-code\DoAn_IT008\Class\Code\BTH5_PhamDanTruong_24521898\Bai08\obj\Debug\Bai08.exe.config
